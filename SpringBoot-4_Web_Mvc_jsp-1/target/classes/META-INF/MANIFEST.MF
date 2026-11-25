@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Java-Version: 25
+Build-Jdk-Spec: 25
+Implementation-Title: SpringBoot-4_Web_Mvc_jsp-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
